@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640230968315",
+    "project_id": "blockchainatm-ac470",
+    "storage_bucket": "blockchainatm-ac470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640230968315:android:fcc6f01f901b3b76df195e",
+        "android_client_info": {
+          "package_name": "com.mahesh.blockchainatm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640230968315-vjee2t2hens9lqllav8u6rer8jmbg0so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahesh.blockchainatm",
+            "certificate_hash": "a4f5792944d2c044bcabab25e523ca833b785d60"
+          }
+        },
+        {
+          "client_id": "640230968315-l168moqmbev3hv63erlou4qjcov814v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZywgaHk7KWhU1qnBuFLXMt1q4o9UZ27s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640230968315-l168moqmbev3hv63erlou4qjcov814v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
